@@ -1,5 +1,5 @@
-### Hi there! 👋 My name is Daniel Lien
-## I am a FullStack Software Engineer with a passion for creating tangible, real-life solutions to positively impact my community, one life of code at a time.
+### Hi there! 👋 My name is Daniel Lien.
+## I am a Fullstack Software Engineer with a passion for creating tangible, real-life solutions to positively impact my community, one line of code at a time.
 
 <!--
 **Daniellien2018/Daniellien2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
