@@ -2,9 +2,9 @@
 ## I am a Fullstack Software Engineer with a passion for creating tangible, real-life solutions to positively impact my community, one line of code at a time.
 
 
-![GitHub Views](https://komarev.com/ghpvc/?username=<Daniellien2018>)
-![GitHub Views](https://komarev.com/ghpvc/?username=<Daniellien2018&color=FAC151>)
-![Visitor Count](https://profile-counter.glitch.me/{Daniellien2018}/count.svg)
+![GitHub Views](https://komarev.com/ghpvc/?username=<liendaniel>)
+![GitHub Views](https://komarev.com/ghpvc/?username=<liendaniel&color=FAC151>)
+![Visitor Count](https://profile-counter.glitch.me/{liendaniel}/count.svg)
 <!--
 **Daniellien2018/Daniellien2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 💬 Ask me about promoting mental health awareness and fitness in the work place.
