@@ -2,7 +2,7 @@
 ## I am a Fullstack Software Engineer with a passion for creating tangible, real-life solutions to positively impact my community, one line of code at a time.
 
 
-![GitHub Views](https://komarev.com/ghpvc/?username=<daniellien2018>)
+![GitHub Views](https://komarev.com/ghpvc/?username=<Daniellien2018>)
 ![GitHub Views](https://komarev.com/ghpvc/?username=<Daniellien2018&color=FAC151>)
 
 <!--
