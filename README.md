@@ -3,6 +3,8 @@
 
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=<daniellien2018>)
+![GitHub Views](https://komarev.com/ghpvc/?username=<daniellien2018&color=FAC151>)
+
 <!--
 **Daniellien2018/Daniellien2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 💬 Ask me about promoting mental health awareness and fitness in the work place.
