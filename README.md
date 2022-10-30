@@ -5,9 +5,9 @@
 **Daniellien2018/Daniellien2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 💬 Ask me about promoting mental health awareness and fitness in the work place.
 -->
-- 🔭 I’m currently looking for job oportunities in Software Engineering and Development
+- 🔭 I’m currently looking for job oportunities in Software Engineering and Development.
 - 🌱 I’m currently self-learning Python!
 - 👯 I’m looking to collaborate on improving accessibility in Health Care.
 - 💬 Ask me about promoting mental health awareness and fitness in the work place.
-- 📫 How to reach me: Email me directly at daniellien2018@gmail.com
+- 📫 How to reach me: Email me directly at daniellien2018@gmail.com.
 - ⚡ Fun fact: Big coffee guy, fitness and health advocate, I can find just about any topic interesting! 
