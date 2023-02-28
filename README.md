@@ -15,4 +15,4 @@ Profile Views: ![Visitor Count](https://profile-counter.glitch.me/{Daniellien201
 - 💬 Ask me about promoting mental health awareness and fitness in the work place.
 - 📫 How to reach me: Email me directly at daniellien2018@gmail.com.
 - ⚡ Fun fact: Big coffee guy, fitness and health advocate, I can find just about any topic interesting! 
-- Check out my [Portfolio!](https://daniellien2018.github.io/) 
+- 👋 Check out my [Portfolio!](https://daniellien2018.github.io/) 
