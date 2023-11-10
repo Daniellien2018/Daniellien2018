@@ -1,5 +1,5 @@
-### Hi there! 👋 My name is Daniel Lien.
-## I am a Fullstack Software Engineer who creates tangible, real-life solutions to positively impact my community. Apart from Software Engineering, I enjoy working with Data and have been exploring AI and ML. I have a passion for medicine and healthcare and utlimately want to use code to benefit our healthcare system.  
+## Hi there! 👋 My name is Daniel Lien.
+### I am a Fullstack Software Engineer who creates tangible, real-life solutions to positively impact my community. Apart from Software Engineering, I enjoy working with Data and have been exploring AI and ML. I have a passion for medicine and healthcare and utlimately want to use code to benefit our healthcare system.  
 
 
 
