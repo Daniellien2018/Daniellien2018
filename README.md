@@ -1,5 +1,5 @@
 ## Hi there! 👋 My name is Daniel Lien.
-### I am a Software Engineer who enjoys working with image data and has strong interests in the field of computer vision. Apart from Engineering, have a passion for medicine and healthcare and utlimately want to use code to benefit our healthcare system.
+### I am a Software Engineer who enjoys working with image data and has strong interests in the field of computer vision. Apart from engineering, I have a passion for medicine and healthcare and utlimately want to use code to benefit our healthcare system.
 
 
 
