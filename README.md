@@ -1,5 +1,5 @@
 ## Hi there! 👋 My name is Daniel Lien.
-### I am a Fullstack Software Engineer who creates tangible, real-life solutions to positively impact my community. Apart from Software Engineering, I enjoy working with Data and have been exploring AI and ML. I have a passion for medicine and healthcare and utlimately want to use code to benefit our healthcare system.  
+### I am a Software Engineer who enjoys working with image data and has strong interests in the field of computer vision. Apart from Engineering, have a passion for medicine and healthcare and utlimately want to use code to benefit our healthcare system.
 
 
 
@@ -7,11 +7,11 @@ Profile Views: ![Visitor Count](https://profile-counter.glitch.me/{Daniellien201
 <!--
 ![GitHub Views](https://komarev.com/ghpvc/?username=<{Daniellien2018}>)
 **Daniellien2018/Daniellien2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 💬 Ask me about promoting mental health awareness and fitness in the work place.
 -->
-- 🔭 I’m currently working for Phantom Ai. Inc. Which is involved in the Adavnced Driver Assisted Systems field (ADAS) 
+- 🏫 Currently a student at Georgia Institute of Technology - Masters of Science - M.S. Analytics - Computational Data Analytics Track
+- 🔭 Currently working for Phantom Ai. Inc. Which is involved in the Adavnced Driver Assisted Systems field (ADAS) 
 - 👯 I’m looking to collaborate on improving accessibility in Health Care.
-- 💬 Ask me about promoting mental health awareness and fitness in the work place.
+- 💬 Talk to me about ways we can improve our current healthcare system with AI and ML!
 - 📫 How to reach me: Email me directly at daniellien2018@gmail.com.
 - ⚡ Fun fact: Big coffee guy, fitness and health advocate, I can find just about any topic interesting! 
 
