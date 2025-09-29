@@ -3,7 +3,6 @@
 
 
 
-Profile Views: ![Visitor Count](https://profile-counter.glitch.me/{Daniellien2018}/count.svg)
 <!--
 ![GitHub Views](https://komarev.com/ghpvc/?username=<{Daniellien2018}>)
 **Daniellien2018/Daniellien2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
