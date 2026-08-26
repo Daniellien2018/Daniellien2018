@@ -11,7 +11,7 @@ Currently, I'm particularly interested in **computer vision, multimodal AI, data
 ### 🚀 What I'm working on
 
 * 💼 Working in **Human Data Operations**, helping scale data workflows that support AI development
-* 🎓 Pursuing an **M.S. in Analytics** at the **Georgia Institute of Technology**, with a focus on computational and machine learning applications
+* 🎓 Pursuing an **M.S. in Computer Science** at the **Georgia Institute of Technology**, with a focus on computational and machine learning applications
 * 👁️ Interested in **Computer Vision, Multimodal AI, and Data-Centric AI**
 * 🧠 Exploring how high-quality human data and strong data operations can enable better AI systems
 * 🏥 Interested in applying **AI and machine learning to healthcare and life sciences**
